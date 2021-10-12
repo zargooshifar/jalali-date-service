@@ -1,5 +1,5 @@
 import {TranslationWidth} from "@angular/common";
-import {Inject, Injectable, LOCALE_ID} from "@angular/core";
+import {Injectable} from "@angular/core";
 import * as fns from 'date-fns-jalali';
 import {newDate} from "date-fns-jalali";
 

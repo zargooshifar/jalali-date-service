@@ -1,8 +1,10 @@
 {
   "name": "@zargooshifar/jalali-date-service",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Yaghoub Zargooshifar",
   "description": "jalali date provider for nebular datepicker",
+  "url": "https://zarg.ir",
+  "homepage": "https://github.com/zargooshifar/jalali-date-service",
   "keywords": [
     "jalali",
     "persian",
