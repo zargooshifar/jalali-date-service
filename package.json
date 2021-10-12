@@ -1,0 +1,20 @@
+{
+  "name": "@zargooshifar/jalali-date-service",
+  "version": "1.0.0",
+  "author": "Yaghoub Zargooshifar",
+  "description": "jalali date provider for nebular datepicker",
+  "keywords": [
+    "jalali",
+    "persian",
+    "datepicker",
+    "nebular"
+  ],
+  "peerDependencies": {
+    "@angular/common": "^12.2.0",
+    "@angular/core": "^12.2.0",
+    "date-fns-jalali": "^2.25.0-0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}
